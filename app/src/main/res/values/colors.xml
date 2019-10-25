@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffa801</color>
+    <color name="colorPrimaryDark">#34495e</color>
+    <color name="colorAccent">#6c5ce7</color>
+
+    <color name="gray">#D8D8D8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="chrome_yellow">#ffa801</color>
+
+    <color name="text">#e74c3c</color>
+    <color name="bgBottomNavigation">#ffa801</color>
+    <color name="fragmentColor">#f5f6fa</color>
+
+</resources>

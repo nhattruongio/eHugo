@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="cf.nhattruong.ehugo">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".Activitys.CallCustomerActivity"></activity>
+        <activity android:name=".Activitys.IndexRoomActivity" />
+        <activity android:name=".Activitys.CreateRoomActivity" />
+        <activity android:name=".Activitys.ListRoomActivity" />
+        <activity
+            android:name=".Activitys.WelcomeActivity"
+            android:theme="@style/SplashTheme" />
+        <activity android:name=".Activitys.ViewRoomActivity" />
+        <activity android:name=".Activitys.LoadingActivity" />
+        <activity android:name=".Activitys.CreateHouseActivity" />
+        <activity android:name=".Activitys.CameraViewActivity" />
+        <activity android:name=".Activitys.ElecActivity" />
+        <activity android:name=".Activitys.BillActivity" />
+        <activity android:name=".Activitys.AnalyticsActivity" />
+        <activity android:name=".Activitys.CancelDealActivity" />
+        <activity android:name=".Activitys.Error404Activity" />
+        <activity android:name=".Activitys.CreDealActivity" />
+        <activity android:name=".Activitys.ChangePasswordActivity" />
+        <activity
+            android:name=".Splash_Activity"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activitys.LoginActivity" />
+        <activity android:name=".Activitys.RegisterActivity" />
+        <activity android:name=".Activitys.MainActivity" />
+    </application>
+
+    <uses-feature
+        android:name="android.hardware.telephony"
+        android:required="false" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+
+</manifest>

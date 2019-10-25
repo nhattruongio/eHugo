@@ -1,0 +1,228 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="300dp"
+    android:viewportWidth="400"
+    android:viewportHeight="300">
+    <path
+        android:fillColor="#5e341d"
+        android:name="矩形 3 拷贝"
+        android:pathData="m106.08 224 -16.07 13c-1.22 0.91 -2.02 2.37 -2.02 4v1c0 6.65 17.32 8 20.09 8h179.82c2.77 0 20.47 -1.08 20.47 -8v-1c0 -1.89 -1.23 -3.53 -2.89 -4.38l-16.58 -12.62z" />
+    <path
+        android:fillColor="#fff"
+        android:name="矩形 3"
+        android:pathData="m109 219 -18 16c-1.22 0.91 -2 2.37 -2 4v1c0 6.65 17.24 8 20 8h179c2.76 0 20 -1.08 20 -8v-1c0 -1.64 -0.79 -3.09 -2 -4l-19 -16z" />
+    <path
+        android:fillColor="#fff"
+        android:fillAlpha="0"
+        android:name="矩形 3 拷贝 2"
+        android:pathData="m109 218 -18 16c-1.22 0.91 -2 2.37 -2 4v1c0 6.65 17.24 8 20 8h179c2.76 0 20 -1.08 20 -8v-1c0 -1.64 -0.79 -3.09 -2 -4l-19 -16z" />
+    <path
+        android:fillColor="#eee"
+        android:name="矩形 2 拷贝 3"
+        android:pathData="m211 66v158h8v-65h52v65h10v-131l-70 -27z" />
+    <path
+        android:fillColor="#d4a26a"
+        android:name="矩形 8"
+        android:pathData="m280 94v130h1v-130z" />
+    <path
+        android:fillColor="#583229"
+        android:name="矩形 25"
+        android:pathData="m211 224h9v1h-9v-1z" />
+    <path
+        android:fillColor="#571822"
+        android:name="矩形 7"
+        android:pathData="m287 94h-6v6l6 -1v-5z" />
+    <path
+        android:fillColor="#8e473c"
+        android:name="矩形 2"
+        android:pathData="m287 90 -115 -46v9l115 46v-9z" />
+    <path
+        android:fillColor="#d9bd82"
+        android:name="矩形 2 拷贝 12"
+        android:pathData="m172 44.75v1.53l115 46v-1.53l-115 -46z" />
+    <path
+        android:fillColor="#63261a"
+        android:fillAlpha="0.57"
+        android:name="矩形 20"
+        android:pathData="m286 90v8.6l1 0.4v-9l-0 -0z" />
+    <path
+        android:fillColor="#161321"
+        android:name="矩形 2 拷贝 4"
+        android:pathData="m271 104.59 -52 -17.59v64h52v-46.41z" />
+    <path
+        android:fillColor="#857a72"
+        android:name="矩形 13"
+        android:pathData="m229 147h34v1h-34v-1z" />
+    <path
+        android:fillColor="#fff"
+        android:fillAlpha="0.6"
+        android:name="矩形 2 拷贝 8"
+        android:pathData="m268 107.59 -46 -15.59v55h46v-39.41z" />
+    <path
+        android:fillColor="#000"
+        android:name="矩形 2 拷贝 7"
+        android:pathData="m222 91 22 7.54v49.46h-22v-57zm24 8.23 22 7.54v41.23h-22v-48.77zm-26 -10.23v61h50v-44.23l-50 -16.77z" />
+    <path
+        android:fillColor="#ddd"
+        android:fillAlpha="0"
+        android:name="矩形 4"
+        android:pathData="m219 159h52v65h-52v-65z" />
+    <path
+        android:fillColor="#b58b5b"
+        android:name="矩形 4 拷贝"
+        android:pathData="m267 160h3v64h-3v-64z" />
+    <path
+        android:fillColor="#954f3d"
+        android:name="矩形 4 拷贝 2"
+        android:pathData="m220 160h47v59h-47v-59z" />
+    <path
+        android:fillColor="#161321"
+        android:name="矩形 9 拷贝"
+        android:pathData="m228 169h34v50h-34v-50z" />
+    <path
+        android:fillColor="#fff"
+        android:fillAlpha="0.5"
+        android:name="矩形 9 拷贝 3"
+        android:pathData="m228 169h34v50h-34v-50z" />
+    <path
+        android:fillColor="#000"
+        android:name="矩形 9"
+        android:pathData="m228 169v50h2v-48h14v48h2v-48h14v48h2v-50z" />
+    <path
+        android:fillColor="#703821"
+        android:name="矩形 11 拷贝"
+        android:pathData="m220 220h47v1h-47v-1z" />
+    <path
+        android:fillColor="#ad5631"
+        android:name="矩形 11"
+        android:pathData="m220 219h47v1h-47v-1z" />
+    <path
+        android:fillColor="#000"
+        android:fillAlpha="0.47"
+        android:name="矩形 11 拷贝 2"
+        android:pathData="m228 218h34v1h-34v-1z" />
+    <path
+        android:fillColor="#f1daa0"
+        android:name="矩形 2 拷贝 2"
+        android:pathData="m110 92 101 -40v178h-101v-138z" />
+    <path
+        android:fillColor="#e3ae71"
+        android:name="矩形 6"
+        android:pathData="m110 93v137h1v-137z" />
+    <path
+        android:fillColor="#e2ad71"
+        android:name="矩形 6 拷贝"
+        android:pathData="m211 52 -1 0.4v177.6h1v-178z" />
+    <path
+        android:fillColor="#ddd"
+        android:fillAlpha="0"
+        android:name="矩形 2 拷贝 4"
+        android:pathData="m123 103.7 77 -27.7v81h-77v-53.3z" />
+    <path
+        android:fillColor="#272736"
+        android:name="矩形 2 拷贝 9"
+        android:pathData="m124 105.01 75 -27.01v78h-75v-50.99z" />
+    <path
+        android:fillColor="#a49485"
+        android:fillAlpha="0.41"
+        android:name="矩形 17"
+        android:pathData="m128 147v5h71v-5z" />
+    <path
+        android:fillColor="#a67353"
+        android:name="矩形 16"
+        android:pathData="m127 103.93 -3 1.08v50.99h3v-52.07z" />
+    <path
+        android:fillColor="#5d4130"
+        android:name="矩形 16 拷贝 3"
+        android:pathData="m126.6 104.08 -0.5 0.18 -2.11 1.28 3.47 3.47 0.53 -3.53 -1.4 -1.4z" />
+    <path
+        android:fillColor="#ca9b83"
+        android:name="矩形 16 拷贝"
+        android:pathData="m127 153 -3 3h75v-3z" />
+    <path
+        android:fillColor="#fff"
+        android:fillAlpha="0.39"
+        android:name="矩形 2 拷贝 10"
+        android:pathData="m128 152v-45.99l71 -25.01v71" />
+    <path
+        android:fillColor="#000"
+        android:name="矩形 2 拷贝 11"
+        android:pathData="m144 100.23v51.77h-16v-45.99l16 -5.78zm16 -5.78v57.55h-14v-52.49l14 -5.06zm39 -16.45 -72 26.01v49.99h72v-2h-37v-58.27l37 -13.37v-2.36z" />
+    <path
+        android:fillColor="#fff"
+        android:name="矩形 18"
+        android:pathData="m127 137v19h1v-19zm4 0v19h1v-19zm4 0v19h1v-19zm4 0v19h1v-19zm4 0v19h1v-19zm4 0v19h1v-19zm4 0v19h1v-19zm4 0v19h1v-19zm4 0v19h1v-19zm4 0v19h1v-19zm4 0v19h1v-19zm4 0v19h1v-19zm4 0v19h1v-19zm4 0v19h1v-19zm4 0v19h1v-19zm4 0v19h1v-19zm5 0v19h1v-19zm3 0v19h1v-19z" />
+    <path
+        android:fillColor="#b8b8ad"
+        android:name="矩形 19"
+        android:pathData="m124 136h75v1h-75v-1z" />
+    <path
+        android:fillColor="#ddd"
+        android:fillAlpha="0"
+        android:name="矩形 5"
+        android:pathData="m123 166h77v64h-77v-64z" />
+    <path
+        android:fillColor="#272736"
+        android:name="矩形 5 拷贝"
+        android:pathData="m123 166h77v64h-77v-64z" />
+    <path
+        android:fillColor="#6c3425"
+        android:fillAlpha="0.52"
+        android:name="矩形 15"
+        android:pathData="m134 207 -11 23v0h75v-23z" />
+    <path
+        android:fillColor="#fff"
+        android:fillAlpha="0.39"
+        android:name="矩形 5 拷贝 2"
+        android:pathData="m123 166v64h77v-64z" />
+    <path
+        android:fillColor="#000"
+        android:name="矩形 14"
+        android:pathData="m144 170v58h-18v-58zm16 0v58h-14v-58zm37 0v58h-35v-58zm-73 -3v63h75v-63z" />
+    <path
+        android:fillColor="#571822"
+        android:name="矩形 7"
+        android:pathData="m102 91h8v6l-8 -1v-5z" />
+    <path
+        android:fillColor="#571822"
+        android:name="矩形 7 拷贝"
+        android:pathData="m211 50 1.79 -3.97 4.23 3.94 -6.05 5.28 0.03 -5.25z" />
+    <path
+        android:fillColor="#8e473c"
+        android:name="矩形 2"
+        android:pathData="m102 84 115 -46v12l-115 46v-12z" />
+    <path
+        android:fillColor="#d9bd82"
+        android:name="矩形 2 拷贝 12"
+        android:pathData="m217 38.75 -115 46v1.53l115 -46v-1.53z" />
+    <path
+        android:fillColor="#63261a"
+        android:fillAlpha="0.57"
+        android:name="矩形 20"
+        android:pathData="m102 84v12l1 -0.4v-11.6z" />
+    <path
+        android:fillColor="#fff"
+        android:name="矩形 1"
+        android:pathData="m166 39h26v193h-26v-193z" />
+    <path
+        android:fillColor="#7e4232"
+        android:fillAlpha="0.65"
+        android:name="矩形 23"
+        android:pathData="m166 39v193h1v-193zm25 0v193h1v-193z" />
+    <path
+        android:fillColor="#1b0000"
+        android:name="椭圆 2"
+        android:pathData="m114.5 217.18c5.8 0 8.89 2.45 10.5 8.96c0.81 3.28 -0.66 5.2 -3.42 5.42c-1.59 0.13 -3.95 0.53 -7.08 0.62c-2.44 0.04 -4.36 -0.47 -5.86 -0.51c-3.44 -0.11 -5.54 -1.8 -4.64 -5.41c1.51 -6 4.7 -9.08 10.5 -9.08z" />
+    <path
+        android:fillColor="#000"
+        android:name="椭圆 4 拷贝"
+        android:pathData="m188.5 229c15.55 0 22.5 -0.4 22.5 5.5c0 2.49 -10.07 4.5 -22.5 4.5c-12.43 0 -22.5 -2.01 -22.5 -4.5c0 -6.36 7.16 -5.5 22.5 -5.5z" />
+    <path
+        android:fillColor="#58712d"
+        android:name="椭圆 4"
+        android:pathData="m188.5 227c12.43 0 22.5 2.01 22.5 4.5c0 2.49 -10.07 4.5 -22.5 4.5c-12.43 0 -22.5 -2.01 -22.5 -4.5c0 -2.49 10.07 -4.5 22.5 -4.5z" />
+    <path
+        android:fillColor="#1b0000"
+        android:name="椭圆 2"
+        android:pathData="m278.5 209.18c5.8 0 8.89 2.45 10.5 8.96c0.81 3.28 -0.66 5.2 -3.42 5.42c-1.59 0.13 -3.95 0.53 -7.08 0.62c-2.44 0.04 -4.36 -0.47 -5.86 -0.51c-3.44 -0.11 -5.54 -1.8 -4.64 -5.41c1.51 -6 4.7 -9.08 10.5 -9.08z" />
+</vector>
